@@ -10,7 +10,6 @@ GTK_IM_MODULE=fcitx
 QT_IM_MODULE=fcitx
 XMODIFIERS=@im=fcitx
 SDL_IM_MODULE=fcitx
-GLFW_IM_MODULE=fcitx
 
 ```
 在 System Settings -> Input Method 中加入 chewing
