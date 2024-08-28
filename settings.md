@@ -13,4 +13,4 @@ SDL_IM_MODULE=fcitx
 GLFW_IM_MODULE=fcitx
 
 ```
-在System Settings -> Input Method 中加入 chewing
+在 System Settings -> Input Method 中加入 chewing
